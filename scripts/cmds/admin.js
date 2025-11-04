@@ -5,7 +5,7 @@ module.exports = {
   config: {
     name: "admin",
     version: "2.0",
-    author: "Arijit + Styled by NIROB",
+    author: "Arijit + Styled by SAFWAN",
     countDown: 5,
     role: 2,
     description: {
@@ -14,8 +14,8 @@ module.exports = {
     category: "box chat",
     guide: {
       en:
-        "   {pn} [add | -a] <uid | @tag>: Add admin role for user\n" +
-        "   {pn} [remove | -r] <uid | @tag>: Remove admin role of user\n" +
+        "   {pn} [add | -a] <uid | @tag>: Add admin role for user\s" +
+        "   {pn} [remove | -r] <uid | @tag>: Remove admin role of user\s" +
         "   {pn} [list | -l]: List all admins"
     }
   },
