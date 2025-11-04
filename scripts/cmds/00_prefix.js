@@ -6,7 +6,7 @@ module.exports = {
     config: {
         name: "prefix",
         version: "1.6",
-        author: "MR᭄﹅ MAHABUB﹅ メꪜ",
+        author: "SAFWAN AHMED",
         countDown: 5,
         role: 0,
         description: "Change the bot's command prefix in your chat or globally (admin only)",
@@ -21,7 +21,7 @@ module.exports = {
             confirmThisThread: "Please react to this message to confirm changing the prefix in your chat",
             successGlobal: "Changed system bot prefix to: %1",
             successThisThread: "Changed prefix in your chat to: %1",
-            myPrefix: "\n\n‣ 𝐆𝐥𝐨𝐛𝐚𝐥 𝐩𝐫𝐞𝐟𝐢𝐱: %1 \n\n‣ 𝐘𝐨𝐮𝐫 𝐠𝐫𝐨𝐮𝐩 𝐩𝐫𝐞𝐟𝐢𝐱: %2\n\n‣ 𝐀𝐝𝐦𝐢𝐧 \n\n‣ N I R O B 🖤\n\n‣ 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 ⓕ\n‣https://www.facebook.com/nirob.nahad007\n\n"
+            myPrefix: "\n\n‣ 𝐆𝐥𝐨𝐛𝐚𝐥 𝐩𝐫𝐞𝐟𝐢𝐱: %1 \n\n‣ 𝐘𝐨𝐮𝐫 𝐠𝐫𝐨𝐮𝐩 𝐩𝐫𝐞𝐟𝐢𝐱: %2\n\n‣ 𝐀𝐝𝐦𝐢𝐧 \n\n‣ SAFWAN🖤\n\n‣ 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 ⓕ\n‣\n\n"
         }
     },
 
