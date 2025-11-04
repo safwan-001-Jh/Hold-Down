@@ -1,8 +1,8 @@
 module.exports = {
 config: {
-name: "nirob",
+name: "safwan",
 version: "1.0",
-author: "nirob",
+author: "safwan",
 countDown: 5,
 role: 0,
 shortDescription: "no prefix",
