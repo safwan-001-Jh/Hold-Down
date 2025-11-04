@@ -5,7 +5,7 @@ const path = require('path');
 module.exports = {
   config: {
     name: "owner",
-    author: "Tokodori",
+    author: "ALOK",
     role: 0,
     shortDescription: "Show bot owner info",
     longDescription: "Display short & styled info about the bot owner",
@@ -16,9 +16,9 @@ module.exports = {
   onStart: async function ({ api, event }) {
     try {
       const ownerInfo = {
-        name: ' ＮＩＲＯＢ ᶻ 𝗓 𐰁',
+        name: ' SAFWAN AHMED',
         age: ' 19 ',
-        nick: 'kakashi',
+        nick: 'ALOK',
         gender: '🚹 Male',
         tag: '⌛ Time Traveler'
       };
